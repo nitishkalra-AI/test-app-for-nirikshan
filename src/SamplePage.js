@@ -18,49 +18,6 @@ function SamplePage() {
           Learn React
         </a>
       </header>
-      <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React   className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>   className="App-link"
-      </header>   className="App-link"
-      
-      </a></header>   className="App-link"
-      
-      </a></header>   className="App-link"
-      
-      </a></header>   className="App-link"
-      
-      </a>
-        </a>
-      </header>
-        </a>
-
     </div>
   );
 }
