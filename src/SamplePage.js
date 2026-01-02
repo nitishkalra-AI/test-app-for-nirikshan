@@ -48,7 +48,15 @@ function SamplePage() {
           Learn React
         </a>
       </header>   className="App-link"
+      </header>   className="App-link"
       
+      </a></header>   className="App-link"
+      
+      </a></header>   className="App-link"
+      
+      </a></header>   className="App-link"
+      
+      </a>
         </a>
       </header>
         </a>
