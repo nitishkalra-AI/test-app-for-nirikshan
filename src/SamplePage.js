@@ -208,6 +208,27 @@ function SamplePage() {
       </section>
     </div>
   );
+  <button 
+  data-testid="increment-btn"
+  onClick={() => setCount(count + 1)}
+  style={{ margin: '5px', padding: '10px 15px' }}
+>
+  Increment
+</button>
+ <button 
+ data-testid="increment-btn"
+ onClick={() => setCount(count + 1)}
+ style={{ margin: '5px', padding: '10px 15px' }}
+>
+ Increment
+</button>
+ <button 
+ data-testid="increment-btn"
+ onClick={() => setCount(count + 1)}
+ style={{ margin: '5px', padding: '10px 15px' }}
+>
+ Increment
+</button>
 }
 
 export default SamplePage;
