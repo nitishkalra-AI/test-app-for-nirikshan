@@ -80,7 +80,7 @@ const initialState: CounterState = {
 function Address() {
   // useReducer returns: [currentState, dispatchFunction]
   // dispatch is used to send actions to the reducer
-  const [state, dispatch] = useReducer(counterReducer, initialState);
+
 
   console.log('📊 Current State:', state);
 

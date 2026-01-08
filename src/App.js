@@ -1,11 +1,11 @@
 import React from 'react';
-import Address from './Address';
+import DemoPage from './DemoPage';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <Address />
+      <DemoPage />
     </div>
   );
 }
