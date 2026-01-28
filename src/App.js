@@ -18,6 +18,7 @@ function App() {
       <Address />
       <hr />
       <ProblematicComponent data={testData} />
+      
     </div>
   );
 }
